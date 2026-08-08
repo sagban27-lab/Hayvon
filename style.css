@@ -1,0 +1,38 @@
+h1{
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 15px;
+    text-align: center      ;
+
+}
+ table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.hayvon{
+    background: green;
+    color: white;
+}
+
+.fakt{
+    background: blue;
+    color: white;
+}
+
+.arslon,
+.fil{
+    background: red;
+    color: white;
+}
+
+.malumot{
+    background: black;
+    color: white;
+}
